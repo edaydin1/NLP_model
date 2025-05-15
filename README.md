@@ -5,7 +5,7 @@ Bu proje, doğal dil işleme (NLP) alanında bir metin sınıflandırma modelini
 model_training.ipynb: Modelin eğitim sürecini adım adım gösteren Jupyter Notebook dosyası.
 
 Kullanılan Teknolojiler
-Python 3.x
+
 
 Jupyter Notebook
 
